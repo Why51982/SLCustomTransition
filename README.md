@@ -1,0 +1,2 @@
+# HYCustomTransition
+简单的自定义转场动画的demo，出来后手动左右滑动消失
